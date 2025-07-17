@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently pursuing Btech(CSE) <br>🎯 <br>🎲 Fun fact: When I am in something I work on it until its done no matter what.</p>
+<p align="left">📚 I'm currently pursuing Btech(CSE) <br>🎯Goal:Looking for a software developer job <br>🎲 Fun fact: When I am in something I work on it until its done no matter what.</p>
 
 ###
 
